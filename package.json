@@ -1,0 +1,19 @@
+{
+  "name": "angular-filter",
+  "version": "1.0.0",
+  "description": "angular filters",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrandtRobin/angular-filter.git"
+  },
+  "author": "Robin Brandt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrandtRobin/angular-filter/issues"
+  },
+  "homepage": "https://github.com/BrandtRobin/angular-filter"
+}
